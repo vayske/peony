@@ -1,0 +1,11 @@
+**/__pycache__
+**/*.pyc
+**/.idea
+**/test*
+**/*.log
+**/logs/
+*.jpg
+*.png
+**/follows.json
+**/users.json
+**/image.png
