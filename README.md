@@ -4,3 +4,6 @@
 # File structure
 - mirai - Provides protocol support for QQ
 - **sirius** - Provides automation features for QQ. Core part of the project
+
+# Note
+This project is mainly for demonstration. Some features may not work properly.
