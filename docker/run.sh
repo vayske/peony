@@ -1,0 +1,1 @@
+docker run -it -d --rm --name rumina rumina:latest
