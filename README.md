@@ -1,6 +1,6 @@
 # Peony
 
-**Peony** is a project based [Mirai](https://github.com/mamoe/mirai) and [Ariadne](https://github.com/GraiaProject/Ariadne) to achieve automation in QQ group chat.
+**Peony** is a project based on [Mirai](https://github.com/mamoe/mirai) and [Ariadne](https://github.com/GraiaProject/Ariadne) to achieve automation in QQ group chat.
 
 >**This project is mainly for coding demonstration, some features may not work properly!!!**
 
