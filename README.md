@@ -1,9 +1,13 @@
 # Peony
-**Peony** is a project based  [Mirai](https://github.com/mamoe/mirai) and [Ariadne](https://github.com/GraiaProject/Ariadne) to achieve automation in QQ group chat.
+
+**Peony** is a project based [Mirai](https://github.com/mamoe/mirai) and [Ariadne](https://github.com/GraiaProject/Ariadne) to achieve automation in QQ group chat.
+
+>**This project is mainly for coding demonstration, some features may not work properly!!!**
+
+
 
 # File structure
-- mirai - Provides protocol support for QQ
-- **sirius** - Provides automation features for QQ. Core part of the project
 
-# Note
-This project is mainly for demonstration. Some features may not work properly.
+- mirai - Provides protocol support for QQ
+
+-  **sirius** - Provides automation features for QQ. Core part of the project
